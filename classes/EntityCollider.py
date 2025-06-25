@@ -27,3 +27,4 @@ class CollisionState:
     def __init__(self, _isColliding, _isTop):
         self.isColliding = _isColliding
         self.isTop = _isTop
+#hiii
